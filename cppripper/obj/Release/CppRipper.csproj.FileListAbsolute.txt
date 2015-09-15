@@ -1,0 +1,5 @@
+E:\bibucket\my_code\AutoGenrate\cppripper\bin\Release\cppripper.dll
+E:\bibucket\my_code\AutoGenrate\cppripper\bin\Release\cppripper.pdb
+E:\bibucket\my_code\AutoGenrate\cppripper\obj\Release\cppripper.dll
+E:\bibucket\my_code\AutoGenrate\cppripper\obj\Release\cppripper.pdb
+E:\bibucket\my_code\AutoGenrate\cppripper\obj\Release\CppRipper.csprojResolveAssemblyReference.cache
